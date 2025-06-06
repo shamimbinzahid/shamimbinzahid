@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+[card](https://github.com/user-attachments/assets/e495d565-92b9-4a74-af54-5c226970744a)
+
 **shamimbinzahid/shamimbinzahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
